@@ -6,4 +6,4 @@
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
-[media](https://shihaab.github.io/media/video.mp4)
+[video](https://shihaab.github.io/media/video.mp4)
